@@ -9,6 +9,7 @@ public class WelcomeController {
 	public String returnMessage() 
 	{
 			return "Welcome to COMP367";
+			
 	}
 
 }
