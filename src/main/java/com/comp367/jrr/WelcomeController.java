@@ -13,9 +13,9 @@ public class WelcomeController {
 
         String greeting = "";
         if (currentTime.isBefore(LocalTime.NOON)) {
-            greeting = "Good morning,";
+            greeting = "Good morning";
         } else {
-            greeting = "Good afternoon,";
+            greeting = "Good afternoon";
         }
 
         String studentName = "Josue Rojas Ruiz - 301347343";
