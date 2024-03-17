@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.comp367.jrr.JosueCOMP367Lab3Q1Tests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.899 s - in com.comp367.jrr.JosueCOMP367Lab3Q1Tests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.074 s - in com.comp367.jrr.JosueCOMP367Lab3Q1Tests
